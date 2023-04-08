@@ -1,4 +1,4 @@
-#First Run to install dependencies
+# First Run to install dependencies
 
 ### `yarn or npm`
 
